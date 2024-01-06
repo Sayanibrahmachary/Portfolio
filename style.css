@@ -406,6 +406,27 @@ body::-webkit-scrollbar
     align-items: center;
     justify-content:center;
 }
+.image1
+{
+    height: 230px;
+    width: 400px;
+    background-image: url("comic.png");
+    background-size: cover;
+}
+.image2
+{
+    height: 230px;
+    width: 400px;
+    background-image: url("template.png");
+    background-size: cover;
+}
+.image3
+{
+    height: 230px;
+    width: 400px;
+    background-image: url("music.png");
+    background-size: cover;
+}
 #number1
 {
     font-weight: 600;
